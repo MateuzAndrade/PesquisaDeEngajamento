@@ -1,4 +1,4 @@
-package com.pegamatita.PesquisaDeEngajamento;
+package com.pegmatita.PesquisaDeEngajamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
