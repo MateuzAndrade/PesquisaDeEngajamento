@@ -7,7 +7,7 @@ function App() {
     <>
       <div className="container">
         <div className="container-login">
-          <div className="wrapper-login">
+          <div className="wrap-login">
             <form className="login-form">
               <span className="login-form-title">
                 Pesquisa de Engajamento
@@ -16,11 +16,11 @@ function App() {
                  <img src={logo} alt="" />
               </span>
               <div className="wrap-input">
-                <input type="email" />
+                <input className='input'  type="email" />
                 <span className="focus-input" data-placeholder="Email" ></span>
               </div>
               <div className="wrap-input">
-                <input type="password" />
+                <input className='input' type="password" />
                 <span className="focus-input" data-placeholder="Password"></span>
               </div>
               <div className="container-login-form-btn">
